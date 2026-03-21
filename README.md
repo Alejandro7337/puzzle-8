@@ -58,7 +58,7 @@ a través de una interfaz gráfica construida con Gradio sobre Google Colab.
 > El `0` representa el espacio vacío del puzzle.
 
 4. Subir el archivo en la interfaz, seleccionar el método de búsqueda y
-   presionar **▶ Resolver**
+   presionar ** Resolver**
 
 ---
 
